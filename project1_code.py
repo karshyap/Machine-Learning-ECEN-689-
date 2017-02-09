@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 23 02:56:36 2016
 
-@author: kashyap
+@author: kashyap Indian
 """
 ###########Assignment-1#############
 ##########Question (b)
